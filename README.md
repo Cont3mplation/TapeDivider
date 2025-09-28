@@ -3,8 +3,8 @@ A python script to automatically divide a playlist to best fit onto a physical c
 
 Installation ====
 
-For Windows, simply download the .exe file and _internal folder, and put them in the same file.
-Then simply double click the .exe.
+For Windows, simply download and run the .exe file.
+No installation required, will run in a command prompt automatically.
 
 Alternatively .py file can be run directly, by adding your own .env file with spotify developer API codes inside.
 
